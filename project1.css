@@ -1,0 +1,36 @@
+/* This is made by Jamie Van Winckel */
+.h1Text {
+  color: blueviolet;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+.pageBackground {
+    background-color: Chartreuse
+  }
+.leftColumn {
+  width:50%;
+  float: left
+}
+.rightColumn {
+  float: right;
+  width: 50%
+}
+.pText {
+  color: blueviolet;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+a:visited {
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+a:link {
+  color:blue;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+a:hover {
+  color:yellow;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+a:active {
+  color:green;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
